@@ -25,7 +25,7 @@ Screenbits スクリーンレコーダー（Microsoft Store版）をUnityから�
 4. 以下のURLを入力:
 
 ```
-https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.unity
+https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.mizotake
 ```
 
 ### manifest.json を直接編集
@@ -35,7 +35,7 @@ https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.uni
 ```json
 {
   "dependencies": {
-    "com.screenbits.unity": "https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.unity"
+    "com.screenbits.mizotake": "https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.mizotake"
   }
 }
 ```
@@ -45,7 +45,7 @@ https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.uni
 タグを使用してバージョンを固定できます:
 
 ```
-https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.unity#v1.0.0
+https://github.com/MizoTake/UnityScreenbits.git?path=Packages/com.screenbits.mizotake#v1.0.0
 ```
 
 ## 使い方

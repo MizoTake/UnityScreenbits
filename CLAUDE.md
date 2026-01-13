@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Simple Unity package (`com.screenbits.unity`) for controlling Screenbits screen recorder (Microsoft Store version) via URI scheme. Windows-only, Unity 2021.3+.
+Simple Unity package (`com.screenbits.mizotake`) for controlling Screenbits screen recorder (Microsoft Store version) via URI scheme. Windows-only, Unity 2021.3+.
 
 ## Architecture
 
@@ -33,7 +33,7 @@ Simple Unity package (`com.screenbits.unity`) for controlling Screenbits screen 
 ## File Structure
 
 ```
-Packages/com.screenbits.unity/
+Packages/com.screenbits.mizotake/
 └── Runtime/
     ├── Screenbits.Unity.asmdef
     ├── ScreenbitsController.cs

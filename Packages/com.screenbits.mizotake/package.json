@@ -1,5 +1,5 @@
 {
-  "name": "com.screenbits.unity",
+  "name": "com.screenbits.mizotake",
   "version": "1.0.0",
   "displayName": "Screenbits Controller",
   "description": "Unity integration for Screenbits screen recorder (Microsoft Store version). Control recording via URI scheme CLI.",

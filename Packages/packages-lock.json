@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.screenbits.unity": {
-      "version": "file:com.screenbits.unity",
+    "com.screenbits.mizotake": {
+      "version": "file:com.screenbits.mizotake",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
