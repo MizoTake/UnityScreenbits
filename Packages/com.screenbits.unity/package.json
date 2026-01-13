@@ -4,7 +4,8 @@
   "displayName": "Screenbits Controller",
   "description": "Unity integration for Screenbits screen recorder (Microsoft Store version). Control recording via URI scheme CLI.",
   "unity": "2021.3",
-  "documentationUrl": "https://www.screenbits.app/manual/cli/",
+  "documentationUrl": "https://github.com/MizoTake/UnityScreenbits",
+  "license": "MIT",
   "keywords": [
     "screenbits",
     "recording",
@@ -12,7 +13,8 @@
     "video"
   ],
   "author": {
-    "name": "Unity Developer"
+    "name": "MizoTake",
+    "url": "https://github.com/MizoTake"
   },
   "dependencies": {}
 }
